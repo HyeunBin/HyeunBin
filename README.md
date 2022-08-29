@@ -1,5 +1,3 @@
 ### README.md
 
-- 반갑
-- 테스트
-- 소개
+fresh man coming
